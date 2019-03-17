@@ -1,6 +1,6 @@
 package main
 
-import "user/router"
+import "home/router"
 
 func main() {
 	router.InitRouter()

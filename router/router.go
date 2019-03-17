@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	. "user/controller"
+	. "home/controller"
 )
 
 func InitRouter() {

@@ -2,10 +2,10 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
+	. "home/model"
 	"log"
 	"net/http"
 	"strconv"
-	. "user/model"
 )
 
 func NotFound(c *gin.Context) {
